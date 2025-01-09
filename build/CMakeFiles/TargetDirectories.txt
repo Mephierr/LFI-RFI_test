@@ -1,0 +1,3 @@
+/home/mephi/Work/LFI-RFI_test/build/CMakeFiles/LFI-RFI_TEST.dir
+/home/mephi/Work/LFI-RFI_test/build/CMakeFiles/edit_cache.dir
+/home/mephi/Work/LFI-RFI_test/build/CMakeFiles/rebuild_cache.dir

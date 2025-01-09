@@ -1,0 +1,1 @@
+/usr/bin/c++ "CMakeFiles/LFI-RFI_TEST.dir/main.cpp.o" -o LFI-RFI_TEST  /usr/lib/x86_64-linux-gnu/libcurl.so 
